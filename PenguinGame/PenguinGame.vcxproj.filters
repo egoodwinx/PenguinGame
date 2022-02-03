@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="assetManager.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Coin.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="D2dclass.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="D3DClass.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="DrawingManager.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="GameInfo.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="GameManager.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="gameObject.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="gameWindow.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Graphicsclass.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="grid.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Inputclass.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Laser.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Level.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Level0.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Level1.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelManager.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="moveableObject.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Powerup.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="scene.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene0.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene1.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="sprite.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Systemclass.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+    <ClCompile Include="Wave.cpp">
+      <Filter>Models</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="assetManager.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Coin.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="common.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="D2DClass.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="D3DClass.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DrawingManager.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="GameInfo.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="GameManager.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="gameWindow.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Graphicsclass.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="grid.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Inputclass.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Laser.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Level.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Level0.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Level1.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelManager.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="MoveableObject.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Powerup.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="scene.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene0.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene1.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="sprite.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Systemclass.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Wave.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="music\README.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{f0c99cff-b0d6-4bed-acb4-16e2cb7f4bcf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Models">
+      <UniqueIdentifier>{29f4afe0-caa4-4dea-b366-83b694a59a38}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
